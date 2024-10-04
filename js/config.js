@@ -4,4 +4,4 @@
 
 var FeeReciever = "0x609C2DF84419C4a66C261E3D013c593ac30CB0A9";
 
-var BaseFee=0;
+var BaseFee=0.00000000001;
